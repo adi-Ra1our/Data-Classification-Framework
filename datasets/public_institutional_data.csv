@@ -1,0 +1,13 @@
+department_name,program_name,course_code,course_title,campus,event_name,event_status
+AIML,B.E. AI & ML,22AI31,Machine Learning,Main Campus,Tech Symposium,Open
+CSE,B.E. CSE,22CS32,DBMS,Main Campus,Hackathon,Open
+ISE,B.E. ISE,22IS33,Data Structures,Main Campus,AI Workshop,Open
+ECE,B.E. ECE,22EC34,Digital Signal Processing,Main Campus,DSP Seminar,Open
+EEE,B.E. EEE,22EE35,Power Systems,Main Campus,Robotics Expo,Open
+ME,B.E. Mechanical,22ME36,Thermodynamics,Main Campus,Coding Fest,Open
+AIML,B.E. AI & ML,22AI31,Machine Learning,Main Campus,Tech Symposium,Open
+CSE,B.E. CSE,22CS32,DBMS,Main Campus,Hackathon,Open
+ISE,B.E. ISE,22IS33,Data Structures,Main Campus,AI Workshop,Open
+ECE,B.E. ECE,22EC34,Digital Signal Processing,Main Campus,DSP Seminar,Open
+EEE,B.E. EEE,22EE35,Power Systems,Main Campus,Robotics Expo,Open
+ME,B.E. Mechanical,22ME36,Thermodynamics,Main Campus,Coding Fest,Open

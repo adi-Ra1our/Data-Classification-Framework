@@ -1,0 +1,46 @@
+student_id,department,employee_advisor,email,phone,cgpa,attendance,scholarship_amount,fee_balance,bank_account_last4,medical_status,placement_status,placement_package_lpa
+STU8001,CSE,Dr Mehta,stu1@example.edu,9398286408,9.68,62,50000,10000,7599,Normal,Placed,8.0
+STU8002,ECE,Dr Mehta,stu2@example.edu,9948746439,7.73,92,0,0,2789,Allergy,Eligible,0.0
+STU8003,ISE,Dr Kumar,stu3@example.edu,9725844419,6.2,65,75000,50000,3864,Normal,Placed,6.0
+STU8004,AIML,Dr Kumar,stu4@example.edu,9303995515,8.93,69,75000,0,2537,Asthma,Placed,12.0
+STU8005,AIML,Dr Rao,stu5@example.edu,9669796156,8.32,98,25000,25000,4119,Allergy,Placed,8.0
+STU8006,CSE,Dr Kumar,stu6@example.edu,9795965056,7.92,88,50000,25000,9660,Allergy,Placed,18.0
+STU8007,CSE,Dr Mehta,stu7@example.edu,9547056709,9.79,90,0,25000,6660,Normal,Not Eligible,0.0
+STU8008,CSE,Dr Rao,stu8@example.edu,9048801564,6.15,61,75000,50000,7578,Asthma,Placed,12.0
+STU8009,ECE,Dr Rao,stu9@example.edu,9644033013,7.77,81,75000,25000,1997,Normal,Not Eligible,0.0
+STU8010,ECE,Dr Kumar,stu10@example.edu,9205987198,6.78,91,75000,10000,8471,Normal,Not Eligible,8.0
+STU8011,ECE,Dr Kumar,stu11@example.edu,9890421631,7.22,98,25000,0,1685,Allergy,Not Eligible,12.0
+STU8012,CSE,Dr Rao,stu12@example.edu,9111960278,9.84,71,50000,0,1325,Allergy,Not Eligible,6.0
+STU8013,ECE,Dr Kumar,stu13@example.edu,9046587306,7.86,97,75000,0,3727,Normal,Eligible,4.5
+STU8014,CSE,Dr Kumar,stu14@example.edu,9424829601,8.71,99,25000,0,3098,Normal,Seeking,4.5
+STU8015,ISE,Dr Rao,stu15@example.edu,9796772041,8.71,70,50000,0,4494,Asthma,Eligible,4.5
+STU8016,AIML,Dr Kumar,stu16@example.edu,9263478923,6.38,73,0,10000,9907,Normal,Seeking,18.0
+STU8017,AIML,Dr Kumar,stu17@example.edu,9524013761,7.64,98,25000,25000,7628,Normal,Seeking,0.0
+STU8018,AIML,Dr Nair,stu18@example.edu,9561059148,8.77,92,50000,0,7432,Normal,Placed,12.0
+STU8019,AIML,Dr Rao,stu19@example.edu,9335414881,9.33,64,0,0,6478,Normal,Seeking,18.0
+STU8020,CSE,Dr Rao,stu20@example.edu,9813785222,9.5,72,75000,0,4352,Normal,Not Eligible,18.0
+STU8021,ECE,Dr Kumar,stu21@example.edu,9384164975,7.19,72,25000,0,5262,Normal,Seeking,0.0
+STU8022,AIML,Dr Mehta,stu22@example.edu,9332571929,6.93,91,75000,50000,4628,Allergy,Seeking,0.0
+STU8023,ECE,Dr Kumar,stu23@example.edu,9480853470,6.33,63,50000,50000,3072,Normal,Placed,12.0
+STU8024,ISE,Dr Rao,stu24@example.edu,9424761341,6.02,68,25000,0,9039,Normal,Seeking,6.0
+STU8025,AIML,Dr Nair,stu25@example.edu,9461754420,6.11,91,75000,0,5843,Normal,Placed,6.0
+STU8026,ECE,Dr Mehta,stu26@example.edu,9146133800,8.0,66,75000,0,7478,Allergy,Not Eligible,6.0
+STU8027,CSE,Dr Kumar,stu27@example.edu,9530514786,9.7,92,25000,10000,6218,Normal,Not Eligible,12.0
+STU8028,ISE,Dr Rao,stu28@example.edu,9589305977,6.19,86,25000,25000,6252,Normal,Seeking,6.0
+STU8029,ISE,Dr Nair,stu29@example.edu,9605538488,7.19,67,0,0,1557,Allergy,Eligible,0.0
+STU8030,AIML,Dr Mehta,stu30@example.edu,9568106709,8.46,83,25000,50000,2076,Normal,Placed,4.5
+STU8031,AIML,Dr Rao,stu31@example.edu,9072761514,6.01,95,0,10000,4299,Normal,Not Eligible,18.0
+STU8032,AIML,Dr Mehta,stu32@example.edu,9136334370,6.03,67,25000,50000,6929,Allergy,Seeking,0.0
+STU8033,ISE,Dr Nair,stu33@example.edu,9108752623,6.65,68,50000,0,2952,Normal,Seeking,0.0
+STU8034,CSE,Dr Nair,stu34@example.edu,9942464668,6.77,97,25000,50000,1856,Allergy,Not Eligible,8.0
+STU8035,ECE,Dr Kumar,stu35@example.edu,9631665398,7.73,98,25000,10000,1865,Normal,Not Eligible,12.0
+STU8036,ECE,Dr Rao,stu36@example.edu,9997453581,6.34,98,0,25000,8141,Normal,Not Eligible,4.5
+STU8037,AIML,Dr Mehta,stu37@example.edu,9342172334,7.68,66,50000,0,4173,Allergy,Eligible,0.0
+STU8038,AIML,Dr Nair,stu38@example.edu,9967704410,6.38,78,25000,10000,8938,Normal,Seeking,12.0
+STU8039,CSE,Dr Rao,stu39@example.edu,9475168865,9.54,91,75000,10000,2163,Normal,Not Eligible,12.0
+STU8040,ECE,Dr Kumar,stu40@example.edu,9611410823,6.7,61,25000,50000,8774,Normal,Eligible,0.0
+STU8041,ISE,Dr Rao,stu41@example.edu,9595349404,8.31,85,25000,0,2189,Normal,Placed,18.0
+STU8042,CSE,Dr Nair,stu42@example.edu,9294747818,9.56,90,75000,50000,3030,Asthma,Placed,8.0
+STU8043,AIML,Dr Nair,stu43@example.edu,9244602619,6.32,81,0,25000,3769,Normal,Not Eligible,12.0
+STU8044,AIML,Dr Kumar,stu44@example.edu,9568080100,9.89,80,50000,0,5424,Normal,Eligible,12.0
+STU8045,ISE,Dr Nair,stu45@example.edu,9052007009,7.63,76,0,0,4709,Allergy,Seeking,8.0

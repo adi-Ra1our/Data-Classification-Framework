@@ -1,0 +1,31 @@
+student_id,full_name,email_address,phone_number,city,hostel_required,scholarship_type,transport_route,counselling_requested
+STU6001,Aarav Sharma,student1@example.edu,9363228088,Mysuru,No,Need-Based,Route B,No
+STU6002,Ananya Nair,student2@example.edu,9642300487,Bengaluru,No,Sports,Route C,No
+STU6003,Aarav Hegde,student3@example.edu,9645291280,Bengaluru,No,Merit,Route A,No
+STU6004,Ananya Patil,student4@example.edu,9845850037,Hubballi,No,Need-Based,None,No
+STU6005,Nikhil Joshi,student5@example.edu,9038265384,Mangaluru,Yes,Need-Based,None,Yes
+STU6006,Meera Shetty,student6@example.edu,9535577879,Bengaluru,Yes,Sports,Route B,No
+STU6007,Diya Sharma,student7@example.edu,9432627058,Mysuru,No,Merit,Route C,No
+STU6008,Rahul Joshi,student8@example.edu,9602145842,Tumakuru,Yes,Merit,Route B,No
+STU6009,Diya Nair,student9@example.edu,9108394906,Tumakuru,No,Merit,Route A,Yes
+STU6010,Diya Shetty,student10@example.edu,9688281126,Mysuru,No,Merit,None,Yes
+STU6011,Rahul Patil,student11@example.edu,9584409324,Mangaluru,Yes,Merit,Route A,Yes
+STU6012,Meera Hegde,student12@example.edu,9484526309,Hubballi,No,None,Route A,Yes
+STU6013,Rahul Hegde,student13@example.edu,9765828025,Hubballi,No,None,Route A,Yes
+STU6014,Meera Sharma,student14@example.edu,9822018051,Hubballi,No,Need-Based,Route C,No
+STU6015,Rahul Sharma,student15@example.edu,9543829932,Hubballi,No,Need-Based,Route C,Yes
+STU6016,Ishaan Joshi,student16@example.edu,9157116494,Tumakuru,No,Merit,Route C,Yes
+STU6017,Ishaan Patil,student17@example.edu,9157718835,Mangaluru,Yes,Merit,Route A,Yes
+STU6018,Ishaan Desai,student18@example.edu,9795111744,Hubballi,Yes,Need-Based,Route B,Yes
+STU6019,Meera Sharma,student19@example.edu,9325688557,Mangaluru,Yes,Need-Based,Route B,No
+STU6020,Nikhil Joshi,student20@example.edu,9652373556,Hubballi,No,Merit,Route A,Yes
+STU6021,Sneha Sharma,student21@example.edu,9963279264,Hubballi,No,Sports,None,No
+STU6022,Ananya Rao,student22@example.edu,9515474284,Bengaluru,Yes,Merit,None,Yes
+STU6023,Diya Patil,student23@example.edu,9352814497,Mangaluru,Yes,Merit,Route B,Yes
+STU6024,Ananya Sharma,student24@example.edu,9660856517,Mysuru,Yes,None,Route B,No
+STU6025,Rohan Joshi,student25@example.edu,9883655062,Bengaluru,No,Merit,Route B,No
+STU6026,Diya Hegde,student26@example.edu,9048425996,Mangaluru,Yes,Merit,Route B,No
+STU6027,Aarav Desai,student27@example.edu,9775003145,Hubballi,Yes,Sports,None,No
+STU6028,Diya Rao,student28@example.edu,9037849518,Hubballi,No,Sports,Route B,Yes
+STU6029,Meera Desai,student29@example.edu,9380125373,Mangaluru,Yes,None,Route C,No
+STU6030,Rahul Desai,student30@example.edu,9924196898,Mysuru,Yes,Need-Based,Route B,No

@@ -1,0 +1,26 @@
+record_id,student_id,blood_group,medical_condition,medication,emergency_contact,emergency_relation,doctor_visit_required
+MED7001,STU7001,O+,Allergy,None,9392731979,Parent,Yes
+MED7002,STU7002,O+,Allergy,Inhaler,9678073608,Parent,No
+MED7003,STU7003,AB+,None,Prescribed medication,9724385469,Sibling,Yes
+MED7004,STU7004,B+,None,Antihistamine,9059828195,Parent,No
+MED7005,STU7005,A+,Diabetes,None,9391827611,Guardian,Yes
+MED7006,STU7006,B+,None,None,9660330428,Sibling,No
+MED7007,STU7007,A-,None,None,9451420381,Guardian,No
+MED7008,STU7008,B+,Diabetes,Prescribed medication,9780578037,Guardian,No
+MED7009,STU7009,O+,Migraine,Prescribed medication,9041214304,Sibling,Yes
+MED7010,STU7010,AB+,Diabetes,None,9907418288,Parent,No
+MED7011,STU7011,AB+,None,Antihistamine,9983708538,Guardian,Yes
+MED7012,STU7012,A-,Migraine,Inhaler,9671300668,Guardian,No
+MED7013,STU7013,A-,None,Antihistamine,9179223283,Sibling,No
+MED7014,STU7014,A+,Diabetes,Pain relief,9856427105,Guardian,No
+MED7015,STU7015,A-,Migraine,Inhaler,9129837252,Guardian,Yes
+MED7016,STU7016,O+,Diabetes,Antihistamine,9781206176,Sibling,No
+MED7017,STU7017,O+,Migraine,Pain relief,9958519043,Guardian,No
+MED7018,STU7018,A+,Diabetes,Inhaler,9163499924,Sibling,No
+MED7019,STU7019,AB+,None,Pain relief,9800527913,Sibling,No
+MED7020,STU7020,AB+,Asthma,Inhaler,9729871120,Sibling,Yes
+MED7021,STU7021,O+,Allergy,Prescribed medication,9984264079,Parent,Yes
+MED7022,STU7022,A-,Asthma,Antihistamine,9426079113,Parent,No
+MED7023,STU7023,A-,None,Pain relief,9571647744,Guardian,No
+MED7024,STU7024,A-,None,None,9796745219,Sibling,No
+MED7025,STU7025,A+,Migraine,Pain relief,9803346352,Parent,No
